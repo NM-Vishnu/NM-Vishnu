@@ -20,7 +20,6 @@
 - A passionate Self-taught backend developer
 - Play video games in my free time.
 - Currently learning full stack develpment
-- Linkedin [link]([https://www.linkedin.com/in/vishnuram-nagarajan-147b99207/])
 
 <br><br>
 
